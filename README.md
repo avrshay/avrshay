@@ -8,10 +8,10 @@
 
 🛠️ **Technical Skills**
 
-  **Languages:** Python (APIs) , Java (OOP, JDBC) , SQL (Queries Optimization), C, CPP, Bash, C# (Multithreading).
-  **Tools & Databases:** Git, Supabase, PostgreSQL, Jira.
-  **Concepts:** Data Structures, Algorithms, Databases, System Design, OS Concepts, Multi-layered Architecture.
-  **Product & Data:** Figma, Mixpanel, Google Analytics, Hotjar, Airtable.
+  * **Languages:** Python (APIs) , Java (OOP, JDBC) , SQL (Queries Optimization), C, CPP, Bash, C# (Multithreading).
+  * **Tools & Databases:** Git, Supabase, PostgreSQL, Jira.
+  * **Concepts:** Data Structures, Algorithms, Databases, System Design, OS Concepts, Multi-layered Architecture.
+  * **Product & Data:** Figma, Mixpanel, Google Analytics, Hotjar, Airtable.
 
 -----
 
