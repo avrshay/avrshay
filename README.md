@@ -25,5 +25,5 @@
 
 🔗 **Connect with Me**
 
- [LinkedIn](https://www.linkedin.com/in/shay-avraham-linkedin)
+ [LinkedIn]([https://www.linkedin.com/in/shay-avraham-linkedin](https://www.linkedin.com/in/shay-avraham-365336223/)
  
