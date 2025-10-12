@@ -19,6 +19,7 @@
 
  **Supermarket's HR Management Module:**
       * Developed a module following best practices of multi-layered architecture (Domain, Service, DAO, DTO) and Design System principles.
+      
       * Integrated with a peer-developed "Delivery Department" module to support cross-department workflows.
 
 -----
