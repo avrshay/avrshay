@@ -2,7 +2,7 @@
 
 🎓 3th Software & Information Systems Engineering student at Ben-Gurion University of the Negev.
 
-🌱 Transitioning from 2 years in FinTech Product Management to hands-on software development. Passionate about building robust, user-focused products from the core.
+🚀 A highly motivated and curious student with a deep passion for software development. I thrive on learning new technologies and diving deep into complex problems. My goal is to build a strong technical foundation and contribute to meaningful projects by transforming ideas into code.
 
 -----
 
@@ -25,5 +25,5 @@
 
 🔗 **Connect with Me**
 
-  * (https://www.google.com/search?q=https://www.linkedin.com/in/shay-avraham-linkedin).
+ [LinkedIn](https://www.linkedin.com/in/shay-avraham-linkedin)
  
