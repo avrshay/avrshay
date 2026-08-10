@@ -28,10 +28,11 @@
 
 **Agentic AI -** Local LLM Tool-Use Pipeline Built an agent orchestrating tool calls through MCP with custom FastMCP tools, running against both local (Ollama) and hosted LLMs.
 
- **Supermarket's HR Management Module:**
+**Supermarket's HR Management Module:**
 Developed a module following best practices of multi-layered architecture (Domain, Service, DAO, DTO) and Design System principles. Integrated with a peer-developed "Delivery Department" module to support cross-department workflows.
 
-**Nets — Multiplayer Blackjack Client-Server System ** Designed and implemented a custom network protocol over UDP/TCP (magic-cookie handshake, offer/request/payload message types) for a multiplayer dealer-client system, handling concurrent connections with multithreading.
+**Nets - Multiplayer Blackjack Client-Server System** Designed and implemented a custom network protocol over UDP/TCP (magic-cookie handshake, offer/request/payload message types) for a multiplayer dealer-client system, handling concurrent connections with multithreading.
+
 -----
 
 🔗 **Connect with Me**
